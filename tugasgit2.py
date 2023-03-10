@@ -7,3 +7,6 @@ user = {
 {nama: irene adler, nik:6789, jenis_kelamin: female; tanggal_lahir:1884-10-07},
 
 }
+
+user = input("Masukkan nama yang hendak dicari:")
+
